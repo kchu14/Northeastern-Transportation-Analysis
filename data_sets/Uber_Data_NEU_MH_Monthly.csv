@@ -1,0 +1,32 @@
+Origin Movement ID,Origin Display Name,Destination Movement ID,Destination Display Name,Date Range,Mean Travel Time (Seconds),Range - Lower Bound Travel Time (Seconds),Range - Upper Bound Travel Time (Seconds)
+888,"Northeastern University Interdisciplinary Science and Engineering Complex, 805 Columbus Ave, Boston, MA",245,"100 Saint Alphonsus Street, Mission Hill, Boston","9/11/2018 - 11/10/2018, Every day, Daily Average",296,172,508
+888,"Northeastern University Interdisciplinary Science and Engineering Complex, 805 Columbus Ave, Boston, MA",889,"100 Fisher Avenue, Mission Hill, Boston","9/11/2018 - 11/10/2018, Every day, Daily Average",444,269,732
+888,"Northeastern University Interdisciplinary Science and Engineering Complex, 805 Columbus Ave, Boston, MA",1118,"0 McGreevey Way, Mission Hill, Boston","9/11/2018 - 11/10/2018, Every day, Daily Average",207,102,419
+302,"Northeastern University, 360 Huntington Ave, Boston, MA",245,"100 Saint Alphonsus Street, Mission Hill, Boston","9/11/2018 - 11/10/2018, Every day, Daily Average",305,179,518
+302,"Northeastern University, 360 Huntington Ave, Boston, MA",889,"100 Fisher Avenue, Mission Hill, Boston","9/11/2018 - 11/10/2018, Every day, Daily Average",472,302,736
+302,"Northeastern University, 360 Huntington Ave, Boston, MA",1118,"0 McGreevey Way, Mission Hill, Boston","9/11/2018 - 11/10/2018, Every day, Daily Average",196,95,403
+302,"Northeastern University Visitor Center, 40 Leon St, Boston, MA",245,"100 Saint Alphonsus Street, Mission Hill, Boston","9/11/2018 - 11/10/2018, Every day, Daily Average",305,179,518
+302,"Northeastern University Visitor Center, 40 Leon St, Boston, MA",889,"100 Fisher Avenue, Mission Hill, Boston","9/11/2018 - 11/10/2018, Every day, Daily Average",472,302,736
+302,"Northeastern University Visitor Center, 40 Leon St, Boston, MA",1118,"0 McGreevey Way, Mission Hill, Boston","9/11/2018 - 11/10/2018, Every day, Daily Average",196,95,403
+302,"Northeastern University School of Law, 416 Huntington Ave, Boston, MA",245,"100 Saint Alphonsus Street, Mission Hill, Boston","9/11/2018 - 11/10/2018, Every day, Daily Average",305,179,518
+302,"Northeastern University School of Law, 416 Huntington Ave, Boston, MA",889,"100 Fisher Avenue, Mission Hill, Boston","9/11/2018 - 11/10/2018, Every day, Daily Average",472,302,736
+302,"Northeastern University School of Law, 416 Huntington Ave, Boston, MA",1118,"0 McGreevey Way, Mission Hill, Boston","9/11/2018 - 11/10/2018, Every day, Daily Average",196,95,403
+302,"Northeastern University Health And Counseling, 70 Forsyth St, Boston, MA",245,"100 Saint Alphonsus Street, Mission Hill, Boston","9/11/2018 - 11/10/2018, Every day, Daily Average",305,179,518
+302,"Northeastern University Health And Counseling, 70 Forsyth St, Boston, MA",889,"100 Fisher Avenue, Mission Hill, Boston","9/11/2018 - 11/10/2018, Every day, Daily Average",472,302,736
+302,"Northeastern University Health And Counseling, 70 Forsyth St, Boston, MA",1118,"0 McGreevey Way, Mission Hill, Boston","9/11/2018 - 11/10/2018, Every day, Daily Average",196,95,403
+,,,,,,,
+,,,,,,,
+302,"Northeastern University, 360 Huntington Ave, Boston, MA",245,"100 Saint Alphonsus Street, Mission Hill, Boston","11/11/2018 - 2/9/2019, Every day, Midday",290,172,488
+302,"Northeastern University, 360 Huntington Ave, Boston, MA",889,"100 Fisher Avenue, Mission Hill, Boston","11/11/2018 - 2/9/2019, Every day, Midday",471,312,708
+302,"Northeastern University, 360 Huntington Ave, Boston, MA",1118,"0 McGreevey Way, Mission Hill, Boston","11/11/2018 - 2/9/2019, Every day, Midday",189,92,387
+888,"Northeastern University Interdisciplinary Science and Engineering Complex, 805 Columbus Ave, Boston, MA",245,"100 Saint Alphonsus Street, Mission Hill, Boston","11/11/2018 - 2/9/2019, Every day, Midday",286,173,471
+888,"Northeastern University Interdisciplinary Science and Engineering Complex, 805 Columbus Ave, Boston, MA",889,"100 Fisher Avenue, Mission Hill, Boston","11/11/2018 - 2/9/2019, Every day, Midday",448,278,720
+888,"Northeastern University Interdisciplinary Science and Engineering Complex, 805 Columbus Ave, Boston, MA",1118,"0 McGreevey Way, Mission Hill, Boston","11/11/2018 - 2/9/2019, Every day, Midday",193,97,380
+,,,,,,,
+,,,,,,,
+888,"Northeastern University Interdisciplinary Science and Engineering Complex, 805 Columbus Ave, Boston, MA",245,"100 Saint Alphonsus Street, Mission Hill, Boston","2/10/2019 - 5/3/2019, Every day, Midday",301,181,499
+888,"Northeastern University Interdisciplinary Science and Engineering Complex, 805 Columbus Ave, Boston, MA",889,"100 Fisher Avenue, Mission Hill, Boston","2/10/2019 - 5/3/2019, Every day, Midday",461,283,750
+888,"Northeastern University Interdisciplinary Science and Engineering Complex, 805 Columbus Ave, Boston, MA",1118,"0 McGreevey Way, Mission Hill, Boston","2/10/2019 - 5/3/2019, Every day, Midday",214,110,415
+302,"Northeastern University, 360 Huntington Ave, Boston, MA",245,"100 Saint Alphonsus Street, Mission Hill, Boston","2/10/2019 - 5/3/2019, Every day, Midday",319,181,560
+302,"Northeastern University, 360 Huntington Ave, Boston, MA",889,"100 Fisher Avenue, Mission Hill, Boston","2/10/2019 - 5/3/2019, Every day, Midday",515,336,787
+302,"Northeastern University, 360 Huntington Ave, Boston, MA",1118,"0 McGreevey Way, Mission Hill, Boston","2/10/2019 - 5/3/2019, Every day, Midday",208,95,452
